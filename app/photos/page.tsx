@@ -14,58 +14,90 @@ export default function Photos() {
       <ImageGrid
         columns={3}
         images={[
-          {
-            src: "/photos/photo1.jpg",
-            alt: "Roman columns",
-            href: "https://unsplash.com/photos/people-walking-near-building-during-daytime-dFLBDQQeffU?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash",
-          },
-          {
-            src: "/photos/photo2.jpg",
-            alt: "Big Ben",
-            href: "https://unsplash.com/photos/big-ben-london-MdJq0zFUwrw?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash",
-          },
-          {
-            src: "/photos/photo3.jpg",
-            alt: "Sacré-Cœur Basilica",
-            href: "https://unsplash.com/photos/a-view-of-the-inside-of-a-building-through-a-circular-window-Tp-3hrx88J4",
-          },
-          {
-            src: "/photos/photo4.jpg",
-            alt: "Eiffel Tower",
-            href: "https://unsplash.com/photos/the-eiffel-tower-towering-over-the-city-of-paris-OgPuPvPsHLM?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash",
-          },
-          {
-            src: "/photos/photo5.jpg",
-            alt: "Taj Mahal",
-            href: "https://unsplash.com/photos/taj-mahal-india-IPlPkWPJ2fo",
-          },
-          {
-            src: "/photos/photo6.jpg",
-            alt: "Colosseum",
-            href: "https://unsplash.com/photos/brown-concrete-building-under-blue-sky-during-daytime-3cyBR1rIJmA?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash",
-          },
-        ]}
-      />
-
-      <ImageGrid
-        columns={2}
-        images={[
-          { src: "/photos/photo1.jpg", alt: "Roman columns" },
-          { src: "/photos/photo2.jpg", alt: "Big Ben" },
-          { src: "/photos/photo3.jpg", alt: "Sacré-Cœur Basilica" },
-          { src: "/photos/photo4.jpg", alt: "Eiffel Tower" },
-        ]}
-      />
-
-      <ImageGrid
-        columns={4}
-        images={[
-          { src: "/photos/photo1.jpg", alt: "Roman columns" },
-          { src: "/photos/photo2.jpg", alt: "Big Ben" },
-          { src: "/photos/photo3.jpg", alt: "Sacré-Cœur Basilica" },
-          { src: "/photos/photo4.jpg", alt: "Eiffel Tower" },
-          { src: "/photos/photo5.jpg", alt: "Taj Mahal" },
-          { src: "/photos/photo6.jpg", alt: "Colosseum" },
+            {
+                src: "/photos/hack-trinity.jpg",
+                alt: "Hack Trinity",
+            },
+            {
+                src: "/photos/college-picnic.jpg",
+                 alt: "College Picnic",
+            },
+            {
+                src: "/photos/college-picnic2.jpg",
+                 alt: "College Picnic 2",
+            },
+            {
+                src: "/photos/achill-beach-at-night.jpg",
+                alt: "Achill beach at night",
+            },
+            {
+                src: "/photos/amsterdam-mosaic.jpg",
+                alt: "Amsterdam mosaic",
+            },
+            {
+                src: "/photos/amsterdam-lego-store.jpg",
+                alt: "Amsterdam Lego store",
+            },
+            {
+                src: "/photos/vondelpark.jpg",
+                alt: "Vondelpark",
+            },
+            {
+                src: "/photos/amsterdam-sketch.jpg",
+                alt: "Amsterdam sketch",
+            },
+            {
+                src: "/photos/amsterdam-canal.jpg",
+                alt: "Amsterdam canal",
+            },
+            {
+                src: "/photos/the-now-building.jpg",
+                alt: "The now building",
+            },
+            {
+                src: "/photos/victoria-and-albert-museum.jpg",
+                alt: "Victoria and Albert museum",
+            },
+            {
+                src: "/photos/london-underground.jpg",
+                alt: "London underground",
+            },
+            {
+                src: "/photos/plane-window.jpg",
+                alt: "Plane window",
+            },
+            {
+                src: "/photos/rainbow-street.jpg",
+                alt: "Rainbow street",
+            },
+            {
+                src: "/photos/roverway-concert.jpg",
+                alt: "Roverway concert",
+            },
+            {
+                src: "/photos/norway-lake.jpg",
+                alt: "Norway lake",
+            },
+            {
+                src: "/photos/norway-camping.jpg",
+                alt: "Norway camping",
+            },
+            {
+                src: "/photos/albufeira-beach.jpg",
+                alt: "Albufeira beach",
+            },
+            {
+                src: "/photos/national-gallery-ireland.jpg",
+                alt: "National Gallery Ireland",
+            },
+            {
+                src: "/photos/dogs-with-stick.jpg",
+                alt: "Dogs with stick",
+            },
+            {
+                src: "/photos/red-cows.jpg",
+                alt: "Cowst",
+            },
         ]}
       />
     </section>
