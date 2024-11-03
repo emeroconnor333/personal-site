@@ -15,6 +15,10 @@ export default function Photos() {
         columns={3}
         images={[
             {
+                src: "/photos/lucky-lane.jpg",
+                alt: "Lucky Lane",
+            },
+            {
                 src: "/photos/hack-trinity.jpg",
                 alt: "Hack Trinity",
             },
@@ -33,6 +37,10 @@ export default function Photos() {
             {
                 src: "/photos/amsterdam-mosaic.jpg",
                 alt: "Amsterdam mosaic",
+            },
+            {
+                src: "/photos/amsterdam-tulips.jpg",
+                alt: "Amsterdam tulips",
             },
             {
                 src: "/photos/amsterdam-lego-store.jpg",
