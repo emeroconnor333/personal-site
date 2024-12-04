@@ -6,6 +6,13 @@ export interface Project {
 }
 
 export const projects: Project[] = [
+      {
+        title: "Well-Quest",
+        year: 2024,
+        description:
+          "A wellness platform designed to foster healthier workplaces by creating a community-driven approach to employee health, featuring step challenges, streamlined event organization, and personalized health tracking.",
+        url: "emeroconnor.dev/ndrc-hackathon",
+      },
     {
         title: "Plate Planner",
         year: 2024,
