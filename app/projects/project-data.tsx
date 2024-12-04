@@ -11,7 +11,7 @@ export const projects: Project[] = [
         year: 2024,
         description:
           "A wellness platform designed to foster healthier workplaces by creating a community-driven approach to employee health, featuring step challenges, streamlined event organization, and personalized health tracking.",
-        url: "emeroconnor.dev/ndrc-hackathon",
+        url: "https://emeroconnor.dev/blog/ndrc-hackathon",
       },
     {
         title: "Plate Planner",
