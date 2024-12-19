@@ -6,13 +6,19 @@ export interface Project {
 }
 
 export const projects: Project[] = [
-      {
-        title: "Well-Quest",
+    {
+        title: "Advanced Calculator",
         year: 2024,
-        description:
-          "A wellness platform designed to foster healthier workplaces by creating a community-driven approach to employee health, featuring step challenges, streamlined event organization, and personalized health tracking.",
-        url: "/blog/ndrc-hackathon",
-      },
+        description: "Developed an advanced calculator in a college project, featuring root-finding algorithms, differentiation, matrix operations, complex number calculations, and algebraic solutions.",
+        url: "https://github.com/tom-byrn/Block-2-Project"
+    },
+    {
+      title: "Well-Quest",
+      year: 2024,
+      description:
+        "A wellness platform designed to foster healthier workplaces by creating a community-driven approach to employee health, featuring step challenges, streamlined event organization, and personalized health tracking.",
+      url: "/blog/ndrc-hackathon",
+    },
     {
         title: "Plate Planner",
         year: 2024,
