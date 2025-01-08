@@ -15,6 +15,26 @@ export default function Photos() {
         columns={3}
         images={[
             {
+                src: "/photos/wearing-blue-dress.jpg",
+                alt: "Blue dress",
+            },            
+            {
+                src: "/photos/sewing-blue-dress.jpg",
+                alt: "Sewing",
+            },            
+            {
+                src: "/photos/lily-snow-heart.jpg",
+                alt: "Dog in snow",
+            },            
+            {
+                src: "/photos/lily-in-snow.jpg",
+                alt: "Dog in snow",
+            },            
+            {
+                src: "/photos/gracie-watercolour.jpg",
+                alt: "Watercolour",
+            },            
+            {
                 src: "/photos/college-christmas-snow.jpg",
                 alt: "College Christmas",
             },

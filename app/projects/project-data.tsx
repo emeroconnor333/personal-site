@@ -6,6 +6,12 @@ export interface Project {
 }
 
 export const projects: Project[] = [
+      {
+        title: "Conway's Game of Life in C",
+        year: 2025,
+        description: "I implemented Conway's Game of Life in C after a few days of learning the language, finding it both challenging and rewarding.",
+        url: "https://github.com/emeroconnor333/Conways-Game-of-Life/tree/main"
+    },  
     {
         title: "Advanced Calculator",
         year: 2024,
