@@ -19,7 +19,7 @@ export default function Photos() {
                 alt: "Blue dress",
             },            
             {
-                src: "/photos/sewing-blue-dress.jpg",
+                src: "/photos/sewing-blue-dress.JPG",
                 alt: "Sewing",
             },            
             {
