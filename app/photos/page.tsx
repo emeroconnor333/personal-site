@@ -15,6 +15,10 @@ export default function Photos() {
         columns={3}
         images={[
             {
+                src: "/photos/hack-ireland-group.jpg",
+                alt: "Hack Ireland",
+            },             
+            {
                 src: "/photos/wearing-blue-dress.jpg",
                 alt: "Blue dress",
             },            
