@@ -6,6 +6,12 @@ export interface Project {
 }
 
 export const projects: Project[] = [
+  {
+    title: "Hack Ireland: BodyCam",
+    year: 2025,
+    description: "Programmed with my team for 30 hours stright to create a system that analyses bodycam footage and audio with OpenAI models.",
+    url: "https://github.com/DiarmuidEnright/23--.git"
+}, 
       {
         title: "Conway's Game of Life in C",
         year: 2025,
@@ -22,7 +28,7 @@ export const projects: Project[] = [
       title: "Well-Quest",
       year: 2024,
       description:
-        "A wellness platform designed to foster healthier workplaces by creating a community-driven approach to employee health, featuring step challenges, streamlined event organization, and personalized health tracking.",
+        "Won an NDRC startup sprint with this wellness platform designed to foster healthier workplaces by creating a community-driven approach to employee health, featuring step challenges, streamlined event organisation, and personalized health tracking.",
       url: "/blog/ndrc-hackathon",
     },
     {
