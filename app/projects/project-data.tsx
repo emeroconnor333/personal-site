@@ -9,7 +9,7 @@ export const projects: Project[] = [
   {
     title: "Hack Ireland: BodyCam",
     year: 2025,
-    description: "Programmed with my team for 30 hours stright to create a system that analyses bodycam footage and audio with OpenAI models.",
+    description: "Programmed with my team for 30 hours straight to create a system that analyses bodycam footage and audio with OpenAI models.",
     url: "https://github.com/DiarmuidEnright/23--.git"
 }, 
       {
